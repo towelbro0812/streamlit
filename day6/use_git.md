@@ -23,6 +23,9 @@
 ## 添加遠端數據庫
 > git remote add origin https://github.com/towelbro0812/streamlit.git
 
+## 取消 git push 之前的提交
+> git reset HEAD^
+
 ## 提交資料到遠程資料庫
 > git push
 
