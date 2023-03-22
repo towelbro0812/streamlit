@@ -35,3 +35,4 @@ c = alt.Chart(df2).mark_circle().encode(
      x='a', y='b', size='c', color='c', tooltip=['a', 'b', 'c'])
 st.write(df2)
 st.write(c)
+st.write("## 測試能不能在連線到雲時自動部屬")
